@@ -6,6 +6,8 @@ Este projeto está estruturado com os assuntos relacionados ao Docker.
 
 *[Aula 1 - Conceitos Básicos ](https://https://github.com/ifpb-disciplinas-2020-2/ads-dac-docker/commit/566935d9b22b5a939990def346c117bdea4d51ae)*
 
+*[Aula 2 - Dockerfile e Docker Compose ](https://https://github.com/ifpb-disciplinas-2020-2/ads-dac-docker/commit/d2095042ff114c6abe2f306fd7f78e7f5b74d7e3)*
+
 
 # Atividade prática
 
